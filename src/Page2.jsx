@@ -1,5 +1,5 @@
 import React from 'react'
-import secondImg from "./assets/image2.";
+import secondImg from "./assets/image2.webp";
 
 
 const Page2 = () => {
